@@ -24,6 +24,7 @@ Coordinates fomat expected:
 ### Usage 
 
 ```shell
+$ pip install requests
 $ python ptg.py -f coordinates.txt -t "Ventura a Collao" -l "Ador" > Ventura-a-Collao.gpx
 ```
 
